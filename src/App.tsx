@@ -71,7 +71,7 @@ function App() {
           </div>
         </div>
 
-        <div className="relative col-start-3 row-span-2 row-start-2 mb-16 flex h-64 max-w-sm flex-col gap-2 rounded-lg bg-white p-8 shadow-xl desktop:h-72">
+        <div className="mb- relative col-start-3 row-span-2 row-start-2 flex h-64 max-w-sm flex-col gap-2 rounded-lg bg-white p-8 shadow-xl desktop:h-72">
           <div className="absolute inset-0 -z-10 -translate-y-2 rounded-lg bg-_blue" />
           <h3 className="text-xl font-semibold text-_very-dark-blue">
             Calculator
