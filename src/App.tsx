@@ -7,11 +7,11 @@ function App() {
   return (
     <main className="relative mx-4 flex flex-col items-center justify-center gap-16 desktop:h-screen">
       <div className="mt-16 flex max-w-sm flex-col desktop:max-w-2xl">
-        <h1 className="text-center text-3xl font-extralight text-_very-dark-blue">
+        <h1 className="text-center text-3xl font-extralight text-_very-dark-blue desktop:text-5xl">
           Reliable, efficient delivery
         </h1>
 
-        <h2 className="mt-2 text-center text-3xl font-semibold text-_very-dark-blue">
+        <h2 className="mt-2 text-center text-3xl font-semibold text-_very-dark-blue desktop:text-5xl">
           Powered by Technology
         </h2>
 
